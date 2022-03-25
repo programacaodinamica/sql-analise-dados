@@ -14,7 +14,10 @@
 [![SQL para Análise de Dados EP3](https://i.ytimg.com/vi/ddyQGqToQzo/mqdefault.jpg)](https://www.youtube.com/watch?v=ddyQGqToQzo)
 
 ## O que você precisa saber para começar a fazer consultas com SQL? | SQL PARA ANÁLISE DE DADOS EP. 4
-Disponível apenas para membros até 08/04.
 [![SQL para Análise de Dados EP4](https://i.ytimg.com/vi/VRPsBvN4hyY/mqdefault.jpg)](https://www.youtube.com/watch?v=VRPsBvN4hyY)
+
+Disponível apenas para membros até 08/04.
+
+____
 
 Observação: Os vídeos desse cursos estão sendo publicados quinzenalmente no canal Programação Dinâmica, mas são liberados antecipadamente (semanalmente) para membros ESPRESSO ou superior. Caso deseje se tornar membro, [clique aqui.](https://www.youtube.com/programacaodinamica/join)
