@@ -5,7 +5,7 @@
 [![SQL para Análise de Dados EP0](https://i.ytimg.com/vi/BRPUA0EgS4I/maxresdefault.jpg)](https://www.youtube.com/watch?v=BRPUA0EgS4I)
 
 ## Consultas SQL na Prática usando SELECT, DISTINCT, WHERE e LIMIT | SQL Para Análise de Dados EP. 1
-[![SQL para Análise de Dados EP1](https://i.ytimg.com/vi//DUYnl5CS0Po/maxresdefault.jpg)](https://www.youtube.com/watch?v=/DUYnl5CS0Po)
+[![SQL para Análise de Dados EP1](https://i.ytimg.com/vi/DUYnl5CS0Po/maxresdefault.jpg)](https://www.youtube.com/watch?v=/DUYnl5CS0Po)
 
 ## Como usar ORDER BY em consultas SQL e IN, BETWEEN, LIKE e NOT | SQL PARA ANÁLISE DE DADOS EP. 2
 [![SQL para Análise de Dados EP2](https://i.ytimg.com/vi/bITEhYGrOPQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=bITEhYGrOPQ)
